@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... data democratization
 - 🌱 I’m currently learning ... React/Next
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... jonathan.jeffrey.kay@gmail.com
+- 📫 How to reach me ... jon.kay@vercel.com
 
 <!---
 IsieData/IsieData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
